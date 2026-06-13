@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="task_name">Task name</string>
+    <string name="delete_task">Delete task</string>
+</resources>
